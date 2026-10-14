@@ -1,23 +1,38 @@
-Mohammad Hossein Torkaman
 
-Electrical Engineering | Wireless Communications | Network Simulation
+# Mohammad Hossein Torkaman
 
-I am an electrical engineering graduate with an interest in wireless communication systems, mobility management, and simulation-based performance evaluation. My undergraduate research examined how Event A3 handover parameters affect the trade-off between service quality and mobility stability in 5G New Radio (NR) networks.
+**Electrical Engineering | Wireless Communications | Network Simulation**
 
-Research Interests
+I am an electrical engineering graduate with an interest in wireless communication systems, mobility management, and simulation-based performance evaluation.
+
+My undergraduate research examined how Event A3 handover parameters affect the trade-off between service quality and mobility stability in 5G New Radio (NR) networks.
+
+## Research Interests
+
 - 5G/6G wireless networks and mobility management
 - Radio resource management and handover optimization
 - Performance modeling and reproducible network simulation
 - Network reliability and quality-of-service evaluation
 
-Selected Project
-5G NR Handover Evaluation — ns-3 / 5G-LENA
-A simulation-based comparison of three Event A3 handover configurations: Reference A3, Reactive A3, and Scenario-Tuned A3 (ST-A3). The study examines changes in UE speed, number of users, and base-station spacing, using throughput, packet loss, delay, handover count, ping-pong events, and fairness as evaluation metrics.
+## Selected Project
 
-The project uses ns-3.48 and 5G-LENA v5.1. Its repository is currently private and will be linked here after public release.
+### 5G NR Handover Evaluation — ns-3 / 5G-LENA
 
-Tools & Methods
-C++ · Python · ns-3 · 5G-LENA · Linux · Git · Data Analysis
+A simulation-based comparison of three Event A3 handover configurations: Reference A3, Reactive A3, and Scenario-Tuned A3 (ST-A3).
 
-Research Approach
+The study examines changes in UE speed, number of users, and base-station spacing, using throughput, packet loss, delay, handover count, ping-pong events, and fairness as evaluation metrics.
+
+**Simulation environment:** ns-3.48 and 5G-LENA v5.1.
+
+*The project repository is currently private and will be linked here after public release.*
+
+## Tools & Methods
+
+- **Programming:** C++, Python
+- **Simulation:** ns-3, 5G-LENA
+- **Development:** Linux, Git, GitHub
+- **Research:** Performance Evaluation, Data Analysis
+
+## Research Approach
+
 I value clearly documented assumptions, reproducible experiments, and balanced reporting of performance trade-offs and limitations.
