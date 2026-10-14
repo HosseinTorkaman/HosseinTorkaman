@@ -1,4 +1,5 @@
 Mohammad Hossein Torkaman
+
 Electrical Engineering | Wireless Communications | Network Simulation
 I am an electrical engineering graduate with an interest in wireless communication systems, mobility management, and simulation-based performance evaluation. My undergraduate research examined how Event A3 handover parameters affect the trade-off between service quality and mobility stability in 5G New Radio (NR) networks.
 Research Interests
